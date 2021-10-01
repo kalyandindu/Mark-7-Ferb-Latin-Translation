@@ -1,0 +1,46 @@
+body{
+    background-color:#FCD34D;
+    text-align: center;
+    margin: auto;
+}
+
+#txt-input{
+    width: 40%;
+    display: block;
+    height: 6rem;
+    margin: 20px auto;
+    padding: 10px; 
+    border-radius: 1rem;       
+}
+#txt-output{
+    border: 1px solid grey;
+    width: 40%;
+    height: 6rem;
+    margin: 20px auto;
+    padding: 10px;  
+    background-color:white;
+    border-radius: 1rem;  
+}
+
+#btn-translate{
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 0.5rem;
+    font-size: large;
+}
+#btn-translate:hover{
+    background-color:black;
+    color: white;
+    cursor: pointer;
+}
+#about{
+    font-size:large; 
+    text-align:left;
+    margin: auto 380px;
+    
+
+}
+
+
+
+
